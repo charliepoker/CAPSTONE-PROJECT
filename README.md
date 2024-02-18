@@ -25,6 +25,6 @@ Throughout this repository, you'll find a detailed log of my progress, including
 - Engage with me through comments and discussions to provide feedback, share ideas, or offer support.
 
 ## Contact Me:
-For inquiries or collaboration opportunities related to my capstone project or the Software and Information System Testing Program at Fanshawe College, feel free to reach out to me via [insert contact information here](#).
+For inquiries or collaboration opportunities related to my capstone project or the Software and Information System Testing Program at Fanshawe College, feel free to reach out to me via [iheanachocharlie@gmail.com](#).
 
 Thank you for your interest in tracking my capstone project progress! Your support and feedback are greatly appreciated.
